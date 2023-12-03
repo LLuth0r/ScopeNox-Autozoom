@@ -1,0 +1,14 @@
+<addon id="script.scopenox-autozoom" version="1.0.0" name="ScopeNox AutoZoom" provider-name="LLuth0r">
+    <requires>
+        <import addon="script.module.requests" version="2.31.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">ScopeNox AutoZoom</summary>
+        <description lang="en">Autozooms the video to fit within the CIH screen based on the media's aspect ratio</description>
+        <license>GNU General Public License, v2</license>
+    </extension>
+</addon>
