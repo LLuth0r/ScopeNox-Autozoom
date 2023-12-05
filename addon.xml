@@ -1,4 +1,4 @@
-<addon id="script.scopenox-autozoom" version="1.0.1" name="ScopeNox AutoZoom" provider-name="LLuth0r">
+<addon id="script.scopenox-autozoom" version="1.0.2" name="ScopeNox AutoZoom" provider-name="LLuth0r">
     <requires>
         <import addon="script.module.requests" version="2.31.0"/>
         <import addon="xbmc.python" version="3.0.0"/>
